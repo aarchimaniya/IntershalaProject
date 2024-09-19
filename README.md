@@ -1,4 +1,5 @@
 ## Intershala Project 
+- The whole project is not finished yet but this is just for like UI example 
 
 -<img src="https://github.com/user-attachments/assets/7b426671-586a-4ef3-ba3f-845d79d2d87d" width="250">
 -<img src="https://github.com/user-attachments/assets/879cab58-dde4-47f4-a493-e5dc6ac466d5" width="250">
