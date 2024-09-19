@@ -1,16 +1,3 @@
-# online_courses_app
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+-<img src="https://github.com/user-attachments/assets/7b426671-586a-4ef3-ba3f-845d79d2d87d" width="250">
+-<img src="https://github.com/user-attachments/assets/879cab58-dde4-47f4-a493-e5dc6ac466d5" width="250">
+-<img src="https://github.com/user-attachments/assets/f30ef3f0-f250-498e-b680-42bdecd23cbc" width="250">
